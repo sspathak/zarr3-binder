@@ -1,4 +1,4 @@
-numpy
+numpy==2
 directory_tree
 fsspec
 git+https://github.com/zarr-developers/zarr-python.git@v3
